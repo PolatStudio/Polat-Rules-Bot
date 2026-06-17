@@ -31,7 +31,7 @@
 
 جميع الحقوق محفوظة لـ **Polat Studio** © 2026
 
-Discord: `plt`
+Discord: `engkane`
 
 ---
 
@@ -68,4 +68,4 @@ The bot provides a fully interactive dashboard allowing administrators to manage
 
 All rights reserved to **Polat Studio** © 2026
 
-Discord: `plt`
+Discord: `engkane`
